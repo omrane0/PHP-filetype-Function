@@ -1,0 +1,1 @@
+# PHP-filetype-Function
