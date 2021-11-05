@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo filetype("test.txt");
+?>
+
+</body>
+</html>
+
+
+
+file
